@@ -1,1 +1,2 @@
 Dokument testowy.
+Drugi wpis do dokumentu tekstowego.
